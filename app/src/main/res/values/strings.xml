@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laba 11</string>
+    <string name="Weather_Diary">Дневник погоды</string>
+    <string name="Welcome">Добро пожаловать</string>
+    <string name="Input">Ввод данных</string>
+    <string name="Output">Вывод данных</string>
+    <string name="Date">Дата</string>
+    <string name="DayTemp">Температура днём</string>
+    <string name="NightTemp">Температура ночью</string>
+    <string name="Add">Добавить</string>
+    <string name="Weather">Погода</string>
+    <string name="Change">Изменить</string>
+    <string name="AddCity">Добавить город</string>
+    <string name="AddingACity">Добавление города</string>
+    <string name="City">Город</string>
+    <string name="Delete">Удалить</string>
+</resources>
